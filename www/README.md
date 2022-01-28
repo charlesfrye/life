@@ -7,4 +7,4 @@
 After that, use `npm run deploy` to push just the static
 web content to the `gh-pages` branch.
 
-See and `package.json` for details.
+See `package.json` for details.
