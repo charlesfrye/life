@@ -1,5 +1,5 @@
 import { Universe, Cell } from "./pkg/life";
-import { memory } from ".pkg/life_bg";
+import { memory } from "./pkg/life_bg";
 
 const CELL_SIZE = 5; // px
 const GRID_COLOR = "#CCCCCC";
